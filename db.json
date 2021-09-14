@@ -1,16 +1,34 @@
 {
-  "posts":[
+  "users": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
+      "name": "salem",
+      "email": "salem@mail.com",
+      "password": "salem@123",
+      "id": 1
+    },
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "email": "rrr",
+      "password": "eee",
+      "name": "ee",
+      "id": 2
+    },
+    {
+      "email": "sdsd",
+      "password": "zeze",
+      "name": "sd",
+      "id": 3
+    },
+    {
+      "email": "tunismail",
+      "password": "123rr",
+      "name": "tunis",
+      "id": 4
+    },
+    {
+      "email": "amin@mail",
+      "password": "amin123",
+      "name": "amin",
+      "id": 5
     }
   ]
 }
