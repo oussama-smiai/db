@@ -37,6 +37,12 @@
     "name":"KFC",
     "contact":111111,
     "address":"10 freedom street, tunis"
+  },{
+    "id":1,
+    "name":"Pizza Hut",
+    "contact":111111,
+    "address":"10 freedom street, tunis"
   }
+
 ]
 }
