@@ -42,6 +42,12 @@
     "name":"Pizza Hut",
     "contact":22222,
     "address":"10 peace street, Cairo"
+  },
+    {
+    "id":3,
+    "name":"Dominos Pizza",
+    "contact":3333,
+    "address":"20 respect street, Cairo"
   }
 
 ]
