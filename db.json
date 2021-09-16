@@ -30,5 +30,11 @@
       "name": "amin",
       "id": 5
     }
-  ]
+  ],
+  "restaurant:[{
+    "id":1,
+    "name":"KFC",
+    "contact":111111,
+    "address":"freedom street, tunis
+  }]
 }
